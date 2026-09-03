@@ -20,4 +20,3 @@
 - Task branch: <!-- branch -->
 - Commit: <!-- full SHA -->
 - Suggested ChatGPT review focus: <!-- correctness, security, tests, etc. -->
-
